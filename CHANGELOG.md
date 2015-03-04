@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## Upcoming
+### Changed
+- Nothing
+
 ## v2.0.0 - 2015-03-04
 ### Changed
 - Nothing
