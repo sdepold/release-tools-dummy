@@ -1,6 +1,6 @@
 {
   "name": "release-tools-dummy",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "This is just a dummy repository which does not do anything.",
   "main": "index.js",
   "scripts": {
