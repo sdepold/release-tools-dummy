@@ -1,6 +1,13 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## Upcoming
+### Added
+- foo
+
+### Removed
+- bar
+
 ## v4.0.0 - 2015-03-16
 ### Added
 - "something"
