@@ -1,6 +1,13 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## Upcoming
+### Added
+- "something"
+
+### Removed
+- Facepalm
+
 ## v3.2.0 - 2015-03-16
 ### Added
 - nomnom
